@@ -1,6 +1,6 @@
 Hello! 
 
-In this folder there are two main Jupyter notebooks, containing code written in Python, they include analysis of hydrogen bond and energy data .xvg files, obtained through GROMACS Molecular Dynamics software. The code includes comments explaining what was done in each step. 
+In this folder there are two main Jupyter notebooks, containing code written in Python, they include analysis of hydrogen bond and energy data .xvg files, obtained through GROMACS Molecular Dynamics software https://manual.gromacs.org/. The code includes comments explaining what was done in each step. 
 
 First notebook, which includes details about 2nc9 data, is an example of how the data from the simulation without ligand was analysed. 
 
@@ -12,3 +12,12 @@ Energy and hydrogen bonds files needed for the notebooks are included in the fol
 
 There is also additional notebook, containing information on how some further analysis was done - statistics and some distribution plots. The extra libraries used in that notebook include: Scipy.stats and statsmodels.api.
 
+References: 
+https://www.python.org
+https://jupyter.org
+https://matplotlib.org
+https://seaborn.pydata.org
+https://pandas.pydata.org
+https://numpy.org
+https://scipy.org
+https://www.statsmodels.org/stable/api.html
